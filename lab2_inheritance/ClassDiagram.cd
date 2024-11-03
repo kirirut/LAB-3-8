@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ComputingMachine">
+    <Position X="5.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAAAAAQAKAACACAAAAAAAAAAAAAAAIgBABIAAA=</HashCode>
+      <FileName>ComputingMachine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laptop">
+    <Position X="9.75" Y="9.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAIgAAAAAAQIAAAAAACAAgAARAwAAAAAgA=</HashCode>
+      <FileName>Laptop.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monoblock">
+    <Position X="2.25" Y="9.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QAEAAIAACAAAAAAAAAAAAAAAEAACAAAgAAAgAAAAAAE=</HashCode>
+      <FileName>Monoblock.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PortableComputer">
+    <Position X="8" Y="5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAQAAAABAAAAgAAAAAYAwCQAAQAQ=</HashCode>
+      <FileName>PortableComputer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StationaryComputer">
+    <Position X="2.25" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgACIAAAIAAAAgAAAAIAAAAgAAAACggAgAAAAA=</HashCode>
+      <FileName>StationaryComputer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tablet">
+    <Position X="5.75" Y="9.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAABAAAAAQgAAACAAAAAABEAgAABgBAA=</HashCode>
+      <FileName>Tablet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stack&lt;T&gt;">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAgAAAAAAAACIAAAIgAgAAAAAAAAAAIAAAAQAA=</HashCode>
+      <FileName>Stack.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Node&lt;T&gt;">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAMAAAA=</HashCode>
+      <FileName>Stack.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
